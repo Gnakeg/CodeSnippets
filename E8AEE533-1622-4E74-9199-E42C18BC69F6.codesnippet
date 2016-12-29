@@ -43,7 +43,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>UITableView DataSource and Delegate</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>GKS UITableViewDelegate and UITableViewDataSource of UITableView</string>
+	<string>UITableViewDelegate and UITableViewDataSource of UITableView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
